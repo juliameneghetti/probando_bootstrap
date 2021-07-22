@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Spartan', sans-serif;
+}
+
+/* MIS ESTILOS */
+body{
+    background-color: black;
+}
+
+    /* MENÚ DE NAVEGACIÓN */
+    .logoTamaño{
+        height: 100px;
+        width: 350px;
+    }
+
+    .cuentaFlex{
+        width: 45px;
+        padding-left: 15px;
+    }
+
+
+    /* SECCIÓN DE IMÁGENES */
+    .imagenes{
+        border: 5px solid rgb(226, 115, 160);
+        width: 300px;
+        height: 400px;
+        margin-top: 50px;
+    }
+
+ 
+
+/* PERSONALIZACIÓN DE BOOTSTRAP */
+
+    /* MENÚ DE NAVEGACIÓN */
+    .bg-dark {
+        background-color: transparent!important;
+    }
+
+    .navbar-collapse {
+        justify-content: center;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        color: rgb(226, 115, 160);
+    }
+
+    .navbar-dark .navbar-nav .nav-link:hover {
+        color: white;
+    }
+
+    .nav-link{
+        margin: 10px;
+    }
+
+
+    /* SECCIÓN DE IMÁGENES */
+    .mt-5 {
+        margin-top: 5rem!important;
+    }
+
+    .h5, h5 {
+        font-size: 20px;
+        padding-bottom: 10px;
+        color: white;
+    }    
+    
+    .card-body {
+        background-color: rgb(226, 115, 160);
+        text-align: center;
+    }
+
+    .card-body a{
+        text-decoration: none;
+        color: rgb(226, 115, 160);
+        font-size: 15px;
+    }
+
+    .card-text{
+        color: white;
+    }
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
